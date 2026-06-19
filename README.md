@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi 👋, I'm Aastha
+🤖 AI & Machine Learning Student | Data Science Enthusiast | Future AI Engineer
 
-<!--
-**aasthasharma-collab-byte/aasthasharma-collab-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about exploring Artificial Intelligence, Machine Learning, and Data Science to build intelligent solutions that solve real-world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pursuing B.Tech in Computer Science 
+🎓 Pursuing studies in Artificial Intelligence & Machine Learning
+🌱 Currently learning Deep Learning, Generative AI, LLMs, and MLOps
+🔬 Interested in Computer Vision, NLP, Predictive Analytics, and AI Research
+💡 Building projects that combine Machine Learning with practical applications
+📚 Constantly exploring new AI tools, frameworks, and research papers
+⚡ Fun fact: I enjoy turning data into meaningful insights and intelligent systems
